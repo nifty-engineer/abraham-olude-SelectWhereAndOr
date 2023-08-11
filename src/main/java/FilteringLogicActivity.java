@@ -40,12 +40,7 @@ import java.util.Set;
  *
  * There are other logical operators as well, but we will focus on AND and OR for now. These operators are not just for
  * WHERE clauses, and can be used in many places in a SQL statement.
- *
- * Additional reference material if needed: https://www.w3schools.com/sql/sql_operators.asp
  */
-
-
-
 public class FilteringLogicActivity {
     /**
      *   employee table
